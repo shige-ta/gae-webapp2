@@ -2,6 +2,11 @@
 Google app engine webapp2 RESTAPIサンプル python2 ver.
 
 
+```bash
+mkdir lib
+pip install -t lib -r requirements.txt
+```
+
 gcloudコマンドインストール
 https://cloud.google.com/sdk/docs/install?hl=JA
 
